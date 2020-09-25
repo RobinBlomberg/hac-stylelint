@@ -12,7 +12,7 @@ Create a file called **.stylelintrc.json** at your project root:
 
 ```json
 {
-  "extends": "@robinblomberg/hac-stylelint"
+  "extends": "@robinblomberg/stylelint-config-hac-stylelint"
 }
 ```
 
