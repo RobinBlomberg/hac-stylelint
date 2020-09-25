@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "./.stylelintrc.css.json",
+    "./.stylelintrc.scss.json"
+  ]
+}

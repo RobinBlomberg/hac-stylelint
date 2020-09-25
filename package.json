@@ -1,0 +1,24 @@
+{
+  "name": "@robinblomberg/stylelint-config-hac-stylelint",
+  "version": "0.1.0",
+  "author": "HiQ Ace Creative",
+  "dependencies": {
+    "stylelint": "^13.7.1",
+    "stylelint-scss": "^3.18.0"
+  },
+  "description": "```\r npm install --save-dev @robinblomberg/hac-stylelint\r ```",
+  "main": ".stylelintrc.json",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinBlomberg/hac-stylelint.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinBlomberg/hac-stylelint/issues"
+  },
+  "homepage": "https://github.com/RobinBlomberg/hac-stylelint#readme"
+}
