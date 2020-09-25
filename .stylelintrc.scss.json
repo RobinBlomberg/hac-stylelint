@@ -20,7 +20,7 @@
     "scss/at-import-partial-extension": "always",
     "scss/at-import-partial-extension-blacklist": null,
     "scss/at-import-partial-extension-whitelist": null,
-    "scss/at-mixin-argumentless-call-parentheses": "always",
+    "scss/at-mixin-argumentless-call-parentheses": "never",
     "scss/at-mixin-named-arguments": null,
     "scss/at-mixin-parentheses-space-before": "never",
     "scss/at-mixin-pattern": "^[a-z][a-z0-9]*(-[a-z0-9]+)*$",
