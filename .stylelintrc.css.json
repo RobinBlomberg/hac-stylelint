@@ -7,16 +7,7 @@
     "at-rule-empty-line-before": ["always", {
       "except": [
         "blockless-after-blockless",
-        "blockless-after-same-name-blockless",
-        "first-nested",
-        "inside-block"
-      ],
-      "ignore": [
-        "after-comment",
-        "blockless-after-blockless",
-        "blockless-after-same-name-blockless",
-        "first-nested",
-        "inside-block"
+        "first-nested"
       ]
     }],
     "at-rule-name-case": "lower",
@@ -171,7 +162,10 @@
     "property-no-vendor-prefix": true,
     "property-whitelist": null,
     "rule-empty-line-before": ["always", {
-      "ignore": "first-nested"
+      "except": [
+        "after-single-line-comment",
+        "first-nested"
+      ]
     }],
     "selector-attribute-brackets-space-inside": "never",
     "selector-attribute-operator-allowed-list": null,
