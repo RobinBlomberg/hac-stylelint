@@ -1,6 +1,6 @@
 {
   "name": "@robinblomberg/stylelint-config-hac-stylelint",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "HiQ Ace Creative",
   "dependencies": {
     "stylelint": "^13.7.1",

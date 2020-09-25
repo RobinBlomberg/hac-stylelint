@@ -165,6 +165,9 @@
       "except": [
         "after-single-line-comment",
         "first-nested"
+      ],
+      "ignore": [
+        "after-comment"
       ]
     }],
     "selector-attribute-brackets-space-inside": "never",
