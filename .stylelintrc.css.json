@@ -232,7 +232,7 @@
     }],
     "shorthand-property-no-redundant-values": true,
     "string-no-newline": true,
-    "string-quotes": "double",
+    "string-quotes": "single",
     "time-min-milliseconds": 100,
     "unicode-bom": "never",
     "unit-allowed-list": null,
